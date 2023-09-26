@@ -1,0 +1,11 @@
+{
+  "name": "rust_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ben Hansen <sotrh@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "sbffi": "^1.0.4"
+  }
+}
